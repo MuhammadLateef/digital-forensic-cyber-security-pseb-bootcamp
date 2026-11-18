@@ -13,7 +13,7 @@ This assignment has two parts:
 1. **Task 1 — a ten-step reconnaissance workflow** (WHOIS → DNS → subdomains → live hosts → ports → tech fingerprint → WAF check → directory brute-force → crawling → misconfiguration scan), with the tool and stopping condition for each step, plus a short justification for using Gobuster instead of DIRB.
 2. **Task 2 — a full DVWA File Upload walkthrough**, working through Low, Medium, High and Impossible security levels, with the action taken, what was observed, why it happened, and how to fix it at every step.
 
-The full report is in `Assignment6_Recon_FileUpload_Remediation.pdf` (or `.docx`).
+The full report is in `Assignment6_Recon_FileUpload_Remediation.pdf`.
 
 ## Lab environment
 
